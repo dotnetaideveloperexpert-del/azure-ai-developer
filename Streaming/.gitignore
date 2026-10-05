@@ -1,0 +1,23 @@
+# Build artifacts
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.suo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Chat history (agar sensitive ho)
+chat-history.json
+
+# Secrets
+appsettings.Development.json
+.env
